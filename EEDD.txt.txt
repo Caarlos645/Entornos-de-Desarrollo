@@ -2,3 +2,8 @@ hola que pasa. Modificación línea 1
 hola, he sacado un
 9!
 Estoy añadiendo una nueva funcionalidad
+
+añadiendo
+añadiendoa
+ git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
