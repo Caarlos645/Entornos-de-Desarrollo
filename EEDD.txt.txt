@@ -5,5 +5,5 @@ Estoy añadiendo una nueva funcionalidad
 
 añadiendo
 añadiendoa
- git config --global user.email "you@example.com"aaaaaaaaaaaaa
-  git config --global user.name "Your Name"
+ git config --global user.email "casanco2000@gmail.com"
+  git config --global user.name "Caarlos645"
